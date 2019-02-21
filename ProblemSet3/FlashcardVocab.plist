@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>umbrella</string>
+		<string>parapluie</string>
+	</array>
+	<array>
+		<string>picnic</string>
+		<string>pique-nique</string>
+	</array>
+	<array>
+		<string>that&apos;s cool</string>
+		<string>c&apos;est chouette</string>
+	</array>
+	<array>
+		<string>potato</string>
+		<string>pomme de la terre</string>
+	</array>
+	<array>
+		<string>skirt</string>
+		<string>jupe</string>
+	</array>
+	<array>
+		<string>grapefruit</string>
+		<string>pamplemousse</string>
+	</array>
+	<array>
+		<string>tiny owl</string>
+		<string>chouette</string>
+	</array>
+	<array>
+		<string>pencil</string>
+		<string>crayon</string>
+	</array>
+	<array>
+		<string>I am simply a little mouse</string>
+		<string>je suis simplement une petite souris</string>
+	</array>
+	<array>
+		<string>candy</string>
+		<string>bonbon</string>
+	</array>
+</array>
+</plist>
